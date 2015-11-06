@@ -20,7 +20,7 @@ INSERT INTO `parroquias` (`nombre`, `id_mun`) VALUES
   ('CARMEN HERRERA', 		  		          3),
   ('GERMÁN RÍOS LINARES', 	            3),
   ('LA ROSA', 				  		            3),
-  ('JORJE HERNÁNDEZ', 		  	          3),
+  ('JORGE HERNÁNDEZ', 		  	          3),
   ('RÓMULO BETANCOURT', 	  	          3),
   ('SAN BENITO', 			  		            3),
   ('ARÍSTIDES CALVANI', 	  	          3),
